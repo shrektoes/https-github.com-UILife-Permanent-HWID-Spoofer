@@ -1,2 +1,2 @@
 # Permanent-HWID-Spoofer
-permanent hwid
+A permanent hwid spoofer. Works for Valorant and all hwid locked applications.
